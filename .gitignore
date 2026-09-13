@@ -1,0 +1,9 @@
+# ไฟล์ต้นฉบับ (ยังไม่เข้ารหัส) ห้ามขึ้น repo — ขึ้นแค่ .enc กับ manifest.json
+*.json
+!manifest.json
+
+# PDF / รูป ต้นฉบับ
+*.pdf
+*.png
+*.jpg
+*.jpeg

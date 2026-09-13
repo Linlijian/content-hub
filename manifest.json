@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "publishedAt": "2026-09-13T05:00:15Z",
+  "version": "1.0.2",
+  "publishedAt": "2026-09-13T06:02:53Z",
   "changeLog": "เพิ่มหนังสือ x3, ข้อสอบ e3, ตำแหน่งงาน p3 + จัดไฟล์เป็นโฟลเดอร์ x / e / p",
   "files": [
     {
@@ -16,6 +16,10 @@
       "sha256": "E94154C1B764388EDFF4A3B78638072A3A45EF41A2A727BFEE4626FF58114589"
     },
     {
+      "name": "x/x4.enc",
+      "sha256": "EF810D0140C3F38F3348D26F54BCAF0342595FE1D6D0431CF3978FA4E0C42A48"
+    },
+    {
       "name": "e/e1.enc",
       "sha256": "A902A497A05E474B3C1033EF98C5A9B887337F70798B7276375CD29E80ECDCB0"
     },
@@ -24,8 +28,16 @@
       "sha256": "52BBA407F163E6FD7C46ABE1D3E0F85DB3BC4A31812C672E64E99684555097DF"
     },
     {
+      "name": "e/e4.enc",
+      "sha256": "9FCF3AEE99CB951B8B123A1B611D17832CAC8BF7C66F21F5A8F5DFDE72232FD2"
+    },
+    {
       "name": "p/p3.enc",
       "sha256": "1AFBD6828C0FE9CE2DD4FA5BA04F7CF793874FB2E75BF1C1654AE662221794C9"
+    },
+    {
+      "name": "p/p4.enc",
+      "sha256": "252129CB1D7DA2C149B90F4ECA7FBA29766566DDC2F332B906F02C52747C4A88"
     }
   ]
 }

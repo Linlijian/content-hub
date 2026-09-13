@@ -1,19 +1,31 @@
 {
-  "version": "1.0.0",
-  "publishedAt": "2026-09-12T00:00:00Z",
-  "changeLog": "ชุดแรก: ระเบียบ/พ.ร.บ. ศาลยุติธรรม 4 เล่ม + พื้นฐานเครือข่าย (มีรูป/สูตร)",
+  "version": "1.0.1",
+  "publishedAt": "2026-09-13T04:43:21Z",
+  "changeLog": "เพิ่มหนังสือ x3, ข้อสอบ e3, ตำแหน่งงาน p3 + จัดไฟล์เป็นโฟลเดอร์ x / e / p",
   "files": [
     {
-      "name": "x1.enc",
+      "name": "x/x1.enc",
       "sha256": "A3D216765C660FEEEE02E6F3A602C1BC774E42EA1BAC9296726A65C139B171DF"
     },
     {
-      "name": "x2.enc",
+      "name": "x/x2.enc",
       "sha256": "3C4895344AF52961647792B6AD871D533CF9B6D5ABF075B89CD1E285119500BA"
     },
     {
-      "name": "e1.enc",
+      "name": "x/x3.enc",
+      "sha256": "E94154C1B764388EDFF4A3B78638072A3A45EF41A2A727BFEE4626FF58114589"
+    },
+    {
+      "name": "e/e1.enc",
       "sha256": "A902A497A05E474B3C1033EF98C5A9B887337F70798B7276375CD29E80ECDCB0"
+    },
+    {
+      "name": "e/e3.enc",
+      "sha256": "52BBA407F163E6FD7C46ABE1D3E0F85DB3BC4A31812C672E64E99684555097DF"
+    },
+    {
+      "name": "p/p3.enc",
+      "sha256": "1AFBD6828C0FE9CE2DD4FA5BA04F7CF793874FB2E75BF1C1654AE662221794C9"
     }
   ]
 }

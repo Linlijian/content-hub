@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "publishedAt": "2026-09-13T07:47:53Z",
-  "changeLog": "เพิ่มหนังสือ x3, ข้อสอบ e3, ตำแหน่งงาน p3 + จัดไฟล์เป็นโฟลเดอร์ x / e / p",
+  "version": "1.0.4",
+  "publishedAt": "2026-09-14T14:50:51Z",
+  "changeLog": "เพิ่มต้นฉบับแบบโต้ตอบ (HTML) รายบท 7 บท: พื้นฐานเครือข่ายคอมพิวเตอร์ OSI/TCP-IP",
   "files": [
     {
       "name": "x/x1.enc",
@@ -13,7 +13,7 @@
     },
     {
       "name": "x/x3.enc",
-      "sha256": "EF810D0140C3F38F3348D26F54BCAF0342595FE1D6D0431CF3978FA4E0C42A48"
+      "sha256": "8AE1A0D43E1394F6A573510C66E2154A53F2808BCB0ABF333A67570C8ECBB206"
     },
     {
       "name": "x/x4.enc",

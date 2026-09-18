@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "publishedAt": "2026-09-14T14:59:08Z",
+  "version": "1.0.5",
+  "publishedAt": "2026-09-17T17:16:13Z",
   "changeLog": "เพิ่มต้นฉบับแบบโต้ตอบ (HTML) รายบท 7 บท: พื้นฐานเครือข่ายคอมพิวเตอร์ OSI/TCP-IP",
   "files": [
     {
@@ -20,6 +20,14 @@
       "sha256": "191346717103A8CF730719AC4932159FC4A31FB71A62E1E2FAF78048D2866A8B"
     },
     {
+      "name": "x/x5.enc",
+      "sha256": "D62ECADDA1DEF4E394AC88D97C6EFE519E5C797C730D1CF126C19E2993A8A0DD"
+    },
+    {
+      "name": "x/x6.enc",
+      "sha256": "D28DF18CD9FAAF2B5D67599BB492D5E171AFE437C1D34B387EC766F46F19353D"
+    },
+    {
       "name": "e/e1.enc",
       "sha256": "A902A497A05E474B3C1033EF98C5A9B887337F70798B7276375CD29E80ECDCB0"
     },
@@ -30,6 +38,14 @@
     {
       "name": "e/e4.enc",
       "sha256": "3F81DB890F7DB812358BFF9780BDA2C9B361FFD14AA4760EEF763652C6930E6A"
+    },
+    {
+      "name": "e/e5.enc",
+      "sha256": "145AE86331F76F7297A05E774EC48DF0DD641E100E542613112EB59FADFE3A99"
+    },
+    {
+      "name": "e/e6.enc",
+      "sha256": "498E3DE8D17EA166EC257BE92FD1A77CA0A43039198B6EF33C68956208F2C0D8"
     },
     {
       "name": "p/p3.enc",
